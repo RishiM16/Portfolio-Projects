@@ -11,8 +11,6 @@ Insights: The dashboard offers a comprehensive view of the pandemic’s progress
 Technologies Used
 SQL: For data cleaning, filtering, and aggregation of COVID-19 datasets.
 Tableau: For building an interactive, user-friendly dashboard that visualizes the findings.
-Data Sources: [Mention any specific datasets you used, like Johns Hopkins or public government data sources.]
-How to Use
 SQL Scripts: The SQL scripts used for data extraction and cleaning can be found in the SQL folder of the repository.
 Tableau Dashboard: A link to the published Tableau dashboard is available in the Dashboard folder, or you can view it here.
 Key Insights from the Project
